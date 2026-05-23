@@ -1,0 +1,13 @@
+{
+  "generatedAt": "2026-05-23T11:14:30.730Z",
+  "resourceSlug": "exchange-api-bans-how-to-prevent-package",
+  "title": "Exchange API ban prevention checklist + backoff defaults",
+  "description": "Two files: an API key permissions checklist plus retry/backoff safe defaults for exchange clients. Download includes both markdown files.",
+  "category": "Crypto Automation",
+  "pillar": "",
+  "canonicalResourceUrl": "https://matrixtrak.com/resources/exchange-api-bans-how-to-prevent-package",
+  "primaryPostSlugs": [
+    "exchange-api-bans-how-to-prevent"
+  ],
+  "secondaryRelatedPostSlugs": []
+}
