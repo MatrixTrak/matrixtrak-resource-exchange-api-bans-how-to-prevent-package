@@ -17,6 +17,14 @@ It is designed for quick implementation support, community sharing, and stable v
 
 Two files: an API key permissions checklist plus retry/backoff safe defaults for exchange clients. Download includes both markdown files.
 
+## Repository Contents
+
+- `resources/` contains shipped files copied from MatrixTrak public ship assets when available
+- `docs/post-mapping.md` maps this resource to related blog posts
+- `docs/resource-files.md` lists included files and source mapping
+- Included shipped files:
+  - resources/exchange-api-bans-how-to-prevent.zip
+
 ## Who This Is For
 
 - Engineers handling production incidents and reliability gaps
