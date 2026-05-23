@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T12:44:38.530Z",
+  "generatedAt": "2026-05-23T12:57:38.641Z",
   "resourceSlug": "exchange-api-bans-how-to-prevent-package",
   "title": "Exchange API ban prevention checklist + backoff defaults",
   "description": "Two files: an API key permissions checklist plus retry/backoff safe defaults for exchange clients. Download includes both markdown files.",
